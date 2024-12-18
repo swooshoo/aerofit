@@ -16,9 +16,9 @@ Original Dataset can be found here: [Aerofit Data](https://github.com/J-Data-Guy
 
 Based on the SQL queries and visualizations, here are the insights:
 
-1. Average Income by Marital Status:  
-**Insights**: Single customers might have lower average incomes than married ones, possibly due to household income pooling. This information could be valuable for targeting married customers with premium products or services.  
-**Actionable Insight**: Focus on products that align with the financial capabilities of married versus single individuals.  
+1. Average Income by Marital Status:    
+**Insights**: Single customers might have lower average incomes than married ones, possibly due to household income pooling. This information could be valuable for targeting married customers with premium products or services.    
+**Actionable Insight**: Focus on products that align with the financial capabilities of married versus single individuals.    
 2. Average Miles Traveled by Fitness Level:  
 **Insights**: Customers with higher fitness levels tend to travel more, which could indicate they engage in outdoor or fitness-related activities. This insight suggests a market for fitness-related products or services, such as gym memberships or fitness trackers.  
 **Actionable Insight**: Target fitness enthusiasts with products designed for active lifestyles.  
