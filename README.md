@@ -18,11 +18,15 @@ Based on the SQL queries and visualizations, here are the insights:
 
 1. Average Income by Marital Status:
 
+![Avg Income by Marital Status](charts/income_vs_maritalStatus.png "Query 1")  
+
 **Insights**: Single customers might have lower average incomes than married ones, possibly due to household income pooling. This information could be valuable for targeting married customers with premium products or services.  
 
 **Actionable Insight**: Focus on products that align with the financial capabilities of married versus single individuals.  
 
 2. Average Miles Traveled by Fitness Level:  
+
+![Avg Miles Traveled by Fitness Level](charts/miles_vs_fitnessLvl.png "Query 2")  
 
 **Insights**: Customers with higher fitness levels tend to travel more, which could indicate they engage in outdoor or fitness-related activities. This insight suggests a market for fitness-related products or services, such as gym memberships or fitness trackers.  
 
@@ -30,11 +34,15 @@ Based on the SQL queries and visualizations, here are the insights:
 
 3. Product Preferences by Gender Distribution (%):  
 
+![Product Preferences by Gender Dist (%)](charts/GenderDist_per_product.png "Query 3")  
+
 **Insights**: Gender-specific product preferences can highlight opportunities for targeted marketing. For example, certain products may have a stronger preference among one gender, indicating potential for more tailored advertisements or product offerings. Used a Pie Chart intuitively the gender distribution easier.  
 
 **Actionable Insight**: Customize marketing campaigns and product offerings based on gender-specific preferences.  
 
 4. Age Distribution Across Different Usage Levels:  
+
+![Age Dist Across Difference Usage Levels](charts/AvgUsage_vs_AgeRange.png "Query 4")  
 
 **Insights**: Younger customers (18-25 years) might have lower usage rates, possibly due to budget constraints or differing priorities. Meanwhile, middle-aged customers (36-45 years) may exhibit higher usage, suggesting they are more settled and have higher disposable incomes.  
 
