@@ -1,25 +1,20 @@
-**DATA**
+## Data 
 
-* Product - product purchased: KP281, KP481, or KP781
+Product - product purchased: KP281, KP481, or KP781  
+Age - in years  
+Gender - male/female  
+Education - in years  
+MaritalStatus - single or partnered  
+Usage - the average number of times the customer plans to use the treadmill each week  
+Fitness - self-rated fitness on a 1-5 scale, where 1 is the poor shape and 5 is the excellent shape  
+Income - annual income in US dollars  
+Miles - the average number of miles the customer expects to walk/run each week  
 
-* Age - in years
+Original Dataset can be found here: [Aerofit Data](https://github.com/J-Data-Guy/Aerofit_Project).
 
-* Gender - male/female
+## Insights
 
-* Education - in years
-
-* MaritalStatus - single or partnered
-
-* Usage - the average number of times the customer plans to use the treadmill each week
-
-* Fitness - self-rated fitness on a 1-5 scale, where 1 is the poor shape and 5 is the excellent shape
-
-* Income - annual income in US dollars
-
-* Miles - the average number of miles the customer expects to walk/run each week
-
-
-**Based on the SQL queries and visualizations, here are the insights:**
+Based on the SQL queries and visualizations, here are the insights:
 
 1. Average Income by Marital Status:
 Insights: Single customers might have lower average incomes than married ones, possibly due to household income pooling. This information could be valuable for targeting married customers with premium products or services.
